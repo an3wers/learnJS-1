@@ -2,7 +2,8 @@ npm-debuge.log
 
 node_modules
 
+main.css
+
 *.tmp
 *~
 
-*.css
