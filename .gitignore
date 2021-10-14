@@ -1,1 +1,5 @@
-main.css
+*.log
+node_modules
+*.tmp
+*~
+
